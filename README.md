@@ -18,3 +18,13 @@ Ppt = https://www.canva.com/design/DAFe79MFuYc/kiz-2t9tZ0c0Nr7Mpjn1FQ/edit?utm_c
 
 
 Devfolio link - https://devfolio.co/projects/ecosustain-eb92 
+
+Reference Links
+
+1) IPFS - https://ipfs.tech/
+
+2) Infura  - https://www.infura.io/
+
+3) Mumbai Polygonscan Testnet - https://mumbai.polygonscan.com/
+
+4) Polygon Documentation - https://wiki.polygon.technology/docs/category/deploying-contracts
