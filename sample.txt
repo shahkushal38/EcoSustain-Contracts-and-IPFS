@@ -1,0 +1,42 @@
+Topic -  EcoSustain - A sustainable decentralised solution for socio-environmental problems of the surroundings 
+Problem Statement - 
+
+
+Garbage collection and dumping are complex issues that involve a wide range of social, economic, and environmental factors. Reason's for such issues - 
+1) Rapid population growth: As populations continue to grow, so does the amount of waste that is generated. 
+2_ Lack of infrastructure: In many parts of the world, there is a lack of infrastructure and resources to support effective waste management. This includes things like collection trucks, landfill sites, and recycling facilities.
+3) Poor waste management practices: In some areas, waste is not managed effectively due to poor practices, such as illegal dumping or inadequate collection systems.
+4) Lack of awareness and education: Many people are not aware of the impact that waste has on the environment and human health. As a result, they may not take waste management seriously or may not understand the importance of responsible waste disposal.
+5) Economic factors: Waste management can be expensive, and many governments and businesses may be unwilling to invest in the necessary infrastructure and resources.
+
+Addressing these issues will require a comprehensive and integrated approach that involves government, industry, and communities working together to develop effective waste management strategies. This may include things like investing in infrastructure and resources, promoting awareness and education, and developing policies and regulations to promote responsible waste management practices.
+
+why is NFT used over ethers or personal tokens?
+
+NFTs are used over ethers or personal tokens because they represent ownership of unique and indivisible assets, whereas ethers and personal tokens are fungible assets that can be exchanged for each other on a one-to-one basis.
+
+Ethers are the native cryptocurrency of the Ethereum blockchain and are used to pay for transaction fees and to execute smart contracts on the network. They are fungible and interchangeable, meaning that one ether is the same as any other ether and can be exchanged for any other ether on a one-to-one basis.
+
+Personal tokens, on the other hand, are custom tokens that are issued by individuals to represent their personal brand or reputation. They can be used to reward fans or supporters, or as a means of payment for goods and services. However, they are also fungible and can be exchanged for each other on a one-to-one basis.
+
+NFTs, on the other hand, represent ownership of unique and indivisible assets, such as digital art, music, or collectibles. Each NFT is unique and cannot be exchanged for any other NFT on a one-to-one basis, providing a way to represent and exchange rare and valuable digital assets in a more secure and transparent way.
+
+Overall, NFTs are used over ethers or personal tokens because they provide a new way to represent and exchange unique digital assets, giving them a level of authenticity and value that was previously difficult to achieve in the digital world.
+
+
+
+PS - 
+In many countries, citizens face significant challenges in raising complaints related to socio-environmental issues like garbage dumps and wastage, community health, safety and security. This is due to the lack of a proper system for reporting these issues anonymously and the fear of reprisals from local authorities. Furthermore, the complaints raised by citizens may not be acted upon by the authorities due to a lack of proper documentation or proof of the complaints.
+
+To address these challenges, we propose the development of an application that enables individuals to register complaints anonymously using blockchain technology. The application will provide a secure and transparent way for citizens to report socio-environmental problems and the information will be stored on a decentralized blockchain network, ensuring that the data cannot be tampered with.
+
+The data will contain proof as images, which will be secured and resistent from tampering by storing it in an InterPlanetary File System (IPFS) powering the Distributed Web.
+
+By using blockchain technology, the application will ensure that the anonymity of the individuals raising complaints is maintained, and the complaints are documented in a secure and transparent manner. NGOs and authorities can access the complaints registered on the blockchain and take necessary actions to address the issues raised. Further, these NGOs and autonomous government authorities shall be incentivized with NFTs (Non Fungible Tokens) upon solving the problem as a token of appreciation for the good work carried on by them.
+
+Challenges - 
+While developing the project we faced hurdles in understanding the Inter Planetary File System (IPFS) architecture and browsed through various resources and youtube tutorials online for developing a JavaScript code in Node js runtime environment that adds and retrieves the same file from IPFS. After much research we were finally able to complete the code and the same is deployed and published on repl - https://replit.com/@KushalShah13/KJSCE-IPFS?v=1 
+
+We also faced challenges in finalising the data flow and architecture for our application, with much discussion amongst the team members and mentors, we finalized the dataflow diagram to work on (link - ) and were able to overcome the challenge. This also gave way to a clear direction for smooth development of Smart contracts as per the business and the frontend UI for the same.
+
+

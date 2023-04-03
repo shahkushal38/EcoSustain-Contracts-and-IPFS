@@ -12,6 +12,9 @@ The data will contain proof as images, which will be secured and resistent from 
 
 By using blockchain technology, the application will ensure that the anonymity of the individuals raising complaints is maintained, and the complaints are documented in a secure and transparent manner. NGOs and authorities can access the complaints registered on the blockchain and take necessary actions to address the issues raised. Further, these NGOs and autonomous government authorities shall be incentivized with NFTs (Non Fungible Tokens) upon solving the problem as a token of appreciation for the good work carried on by them.
 
-Links - 
-Ppt = 
-Drvfolio link - https://devfolio.co/projects/ecosustain-eb92 
+Links -
+
+Ppt = https://www.canva.com/design/DAFe79MFuYc/kiz-2t9tZ0c0Nr7Mpjn1FQ/edit?utm_content=DAFe79MFuYc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+Devfolio link - https://devfolio.co/projects/ecosustain-eb92 
